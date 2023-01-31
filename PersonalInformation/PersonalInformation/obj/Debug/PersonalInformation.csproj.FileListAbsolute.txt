@@ -1,0 +1,11 @@
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.AssemblyReference.cache
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.SuggestedBindingRedirects.cache
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Form1.resources
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Properties.Resources.resources
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.GenerateResource.cache
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.CoreCompileInputs.cache
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+C:\Users\dumag\Desktop\Code Files\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb

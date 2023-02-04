@@ -1,0 +1,11 @@
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\bin\Debug\NumberSequence_Dumagpi.exe.config
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\bin\Debug\NumberSequence_Dumagpi.exe
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\bin\Debug\NumberSequence_Dumagpi.pdb
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\obj\Debug\NumberSequence_Dumagpi.csproj.AssemblyReference.cache
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\obj\Debug\NumberSequence_Dumagpi.csproj.SuggestedBindingRedirects.cache
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\obj\Debug\NumberSequence_Dumagpi.Form1.resources
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\obj\Debug\NumberSequence_Dumagpi.Properties.Resources.resources
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\obj\Debug\NumberSequence_Dumagpi.csproj.GenerateResource.cache
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\obj\Debug\NumberSequence_Dumagpi.csproj.CoreCompileInputs.cache
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\obj\Debug\NumberSequence_Dumagpi.exe
+C:\Users\dumag\Desktop\Code Files\NumberSequence_Dumagpi\NumberSequence_Dumagpi\obj\Debug\NumberSequence_Dumagpi.pdb
